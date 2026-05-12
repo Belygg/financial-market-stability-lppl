@@ -21,6 +21,7 @@ env/
 data/raw/
 data/processed/
 *.csv
+!project_files/data/*.csv
 *.parquet
 *.h5
 *.hdf5
